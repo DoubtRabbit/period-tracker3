@@ -1,0 +1,8 @@
+import streamlit as st
+
+[theme]
+primaryColor = "#F63366"
+backgroundColor = "#F1BABF"
+secondaryBackgroundColor = "#F9E3E9"
+textColor = "#262730"
+font = "sans serif"
